@@ -26,3 +26,10 @@ local.properties
 */target
 /build
 */build
+
+.classpath
+.project
+gradle/
+gradlew
+gradlew.bat
+build.gradle
